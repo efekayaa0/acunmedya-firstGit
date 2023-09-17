@@ -1,9 +1,7 @@
 bu benim ilk yazdığım kod 
 bu dosyada değişiklik yaptım 
-<<<<<<< HEAD
 
 
 conflict değişikliği
-=======
 conflict değişimi-2
->>>>>>> origin/testbranch
+
