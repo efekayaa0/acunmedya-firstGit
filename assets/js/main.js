@@ -264,7 +264,7 @@ function sendWhatsapp() {
     const name = document.getElementById("name").value;
     const email = document.getElementById("email").value;
     const subject = document.getElementById("subject").value;
-    const mesaj = document.getElementById("subject").value;
+    const mesaj = document.getElementById("mesaj").value;
 
     // Mesaj içeriðini oluþturun
     const messageContent = "*ÝSÝM:*" + name + '\n'
