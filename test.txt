@@ -5,4 +5,3 @@ bu dosyada değişiklik yaptım
 conflict değişikliği
 conflict değişimi-2
 
-ben bu değişikliği geri alacağım
